@@ -203,5 +203,5 @@ public class MainActivity extends Activity {
 		btnJump_P = (Button) findViewById(R.id.btnJumpP);
 		btnJump_M = (Button) findViewById(R.id.btnJumpM);
 	}
-
+fsaf
 }
