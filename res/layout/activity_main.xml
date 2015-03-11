@@ -10,7 +10,7 @@
         android:id="@+id/drawLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
-
+safsaf
     <LinearLayout
         android:id="@+id/linearLayout2"
         android:layout_width="wrap_content"
